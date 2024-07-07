@@ -45,9 +45,9 @@ Insights
 - **Borrower Responsibility Growth**: The sharp increase in liabilities over time, which peaked in 2020, indicates that the scale and scope of IDA projects are increasing.
 - **Global Commitment Money Survey**: High levels of commitment in regions such as Africa and South Asia confirm IDA's focus in these important areas.
 - **Basic Financial Considerations**:
-&nsbp;&nsbp;- Service Fee Rate (0.93%): Affordable loans that encourage participation.
-&nsbp;&nsbp;- Distributed in principal (81.0%): Cash management.
-&nsbp;&nsbp;- Repayment to Disbursed Amount (41.3%): Reflects the repayment capacity of the borrower.
+  - Service Fee Rate (0.93%): Affordable loans that encourage participation.
+  - Distributed in principal (81.0%): Cash management.
+  - Repayment to Disbursed Amount (41.3%): Reflects the repayment capacity of the borrower.
 - **Distribution vs premium (2.94)**: Increased indicates active use of the project where future payments are expected.
 - **Payment Lapse Ratio (0.44)**: This means ongoing fiscal commitment, with many countries still paying cash.
 - **Equal Income Distribution**: Extensive regional banking supports global growth and reduces inequality.
