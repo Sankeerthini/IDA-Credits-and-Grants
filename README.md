@@ -15,7 +15,7 @@ The dataset includes various metrics related to IDA financing, including initial
 
 ---
 
-**Section 1: Overview**
+##Section 1: Overview
 --
 
 **Key Metrics**
@@ -28,6 +28,8 @@ The dataset includes various metrics related to IDA financing, including initial
 
 **Insights**
 
-- Funding: A substantial portion of the capital has been allocated, indicating active commitment to the project.
-- Repayment Performance: The amounts payable to the IDA exhibit strong repayment characteristics, which are important for the sustainability of the Bank.
-- No cash flow: Managing cash flow helps in faster completion of the project and improves cash management.
+- **Funding**: A substantial portion of the capital has been allocated, indicating active commitment to the project.
+- **Repayment Performance**: The amounts payable to the IDA exhibit strong repayment characteristics, which are important for the sustainability of the Bank.
+- **No cash flow**: Managing cash flow helps in faster completion of the project and improves cash management.
+
+
