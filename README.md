@@ -17,7 +17,7 @@ The dataset includes various metrics related to IDA financing, including initial
 
 ## Section 1: Overview
 
-****Key Metrics****
+### **Key Metrics**
 
 - **Original Amount**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: $555.2bn
 - **Disbursed Amount**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: $408.9bn
@@ -25,7 +25,7 @@ The dataset includes various metrics related to IDA financing, including initial
 - **Undisbursed Amount**&nbsp;&nbsp;&nbsp;&nbsp;: $105.9bn
 - **Amount Due to IDA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: $199.1bn
 
-**Insights**
+Insights
 
 - **Funding**: A substantial portion of the capital has been allocated, indicating active commitment to the project.
 - **Repayment Performance**: The amounts payable to the IDA exhibit strong repayment characteristics, which are important for the sustainability of the Bank.
