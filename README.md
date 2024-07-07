@@ -1,4 +1,4 @@
-## IDA Credits and Grants
+# IDA Credits and Grants
 **Introduction and purpose**
 --
 
