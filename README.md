@@ -73,3 +73,20 @@ This section presents the historical trends of various financial metrics includi
 Insights
 
 
+
+---
+
+![Projects Analysis](https://drive.google.com/uc?export=view&id=1efWG7aMRVjFwjk1apaEXnu8aLApllWFO)
+---
+
+## Section 3: Projects Analysis
+
+### Overview of projects
+
+This section provides an overview of all transactions, the number of transactions according to credit conditions, the top transactions for which global funds are allocated, and the obligations of borrowers in each transaction
+
+Insights
+
+- **Delivery of the project**: Counting the project count by credit status helps to understand the life cycle and dynamics of various projects.
+- **Top projects**: Highlighting high-quality projects with awarded funding helps to identify high-impact projects and repeat the successful ones.
+- **Borrower Obligations**: Analyzing obligations by project provides insight into the performance and financial commitments of a particular project.
