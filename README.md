@@ -17,46 +17,16 @@ The dataset includes various metrics related to IDA financing, including initial
 
 ## Section 1: Overview
 
-### Key Metrics
-
-- **Original Amount**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: $555.2bn
-- **Disbursed Amount**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: $408.9bn
-- **Amount Repaid to IDA**&nbsp;&nbsp;&nbsp;: $139.2bn
-- **Undisbursed Amount**&nbsp;&nbsp;&nbsp;&nbsp;: $105.9bn
-- **Amount Due to IDA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: $199.1bn
+This section provides a comprehensive overview of IDA's financing activities, including key financial metrics including key ratios, top borrowers, regional banking allocations, and principal allocations according to sleeping debt conditions clear at the top, summarizing both financial commitment and positioning. Visuals include bar charts, pie charts, and detailed metrics to give a clear and concise idea of ​​IDA’s financial position.
 
 Insights
 
-- **Funding**: A substantial portion of the capital has been allocated, indicating an active commitment to the project.
-- **Repayment Performance**: The amounts payable to the IDA exhibit strong repayment characteristics, which are important for the sustainability of the Bank.
-- **No cash flow**: Managing cash flow helps faster project completion and improves cash management.
-
-### Top borrowers
-
-This section focuses on the top borrowers, including the Department of Finance and various finance and finance managers, with a detailed breakdown of the initial principles, issues, and payments.
-
-Insights
-
-- **Borrower performance**: Greater borrowers have used and paid back more money, showing their ability to handle larger transactions.
-- **Efficient Allocation of Funds**: Aligning funds with the original allocation means that funds are allocated efficiently and effectively.
-
-### Distribution by region
-
-This section shows the allocation of funds across sectors, the amount of initial investment, and the amount of funds allocated to each sector.
-
-Insights
-
-- **Regional Segmentation**: Regions such as South Asia and Eastern South Africa received significant investments, indicating priority areas for growth.
-- **Implementation gaps**: Identifying underserved areas can help redistribute resources and address community development needs.
-
-### Financial analysis by credit rating
-
-This section examines the principal and cash structure of the commitments by debt level.
-
-Research conducted
-
-- **Debt Status Distribution**: A substantial portion of the debt is denominated in USD and XDR, reflecting the preferred funding of IDA.
-- **Risk management**: A diversified income allocation helps reduce currency risk and provide financial stability.
+- **Funding Allocation**: A large proportion of the original amount has been disbursed, demonstrating a strong commitment to ongoing projects.
+- **Repayment Performance**: Significant repayments to IDA reflect strong financial health and effective management of funds by borrowers.
+- **Top Borrowers**: Major borrowers such as the Ministry of Finance and Controller of Aid have received and repaid substantial amounts, indicating their capability to handle large financial transactions.
+- **Regional Distribution**: Regions like South Asia and Eastern and Southern Africa are prioritized for funding, which aligns with the development goals and needs of these areas. Identifying regions with lower allocations can help in strategic planning for resource redistribution to underfunded areas.
+- **Credit Status**: A diversified allocation of principal amounts across different currencies helps mitigate currency risk and ensures financial stability.
+- **Borrower Obligations**: Analyzing borrower obligations by project and region provides insights into the performance and financial commitments of various projects, aiding in assessing project efficiency and impact.
 
 ---
 
