@@ -66,3 +66,10 @@ Research conducted
 
 ## Section 2: Regional Financial Analysis
 
+### Historical analysis and economic analysis
+
+This section presents the historical trends of various financial metrics including borrower obligations, loan holdings, amounts issued, IDA payables, fees and defaults Global commitment rate analysis date the region’s state-specific income distribution has been revealed. Key financial metrics such as average service charge rates, premiums to principal, average premiums to disbursements, dividends and payments, and average costs of payments. ending cash flow metrics provide important insights. The study highlights the growing importance of IDA funding countries, equitable distribution of funds, and economic health and infrastructure sustainability.
+
+Insights
+
+
