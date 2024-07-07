@@ -16,9 +16,8 @@ The dataset includes various metrics related to IDA financing, including initial
 ---
 
 ## Section 1: Overview
---
 
-**Key Metrics**
+****Key Metrics****
 
 - **Original Amount**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: $555.2bn
 - **Disbursed Amount**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: $408.9bn
