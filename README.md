@@ -90,3 +90,28 @@ Insights
 - **Delivery of the project**: Counting the project count by credit status helps to understand the life cycle and dynamics of various projects.
 - **Top projects**: Highlighting high-quality projects with awarded funding helps to identify high-impact projects and repeat the successful ones.
 - **Borrower Obligations**: Analyzing obligations by project provides insight into the performance and financial commitments of a particular project.
+
+---
+
+## Conclusion
+
+- **Efficient Distribution of Funds**: IDA has provided substantial funding to a variety of sectors and projects, contributing significantly to global development efforts.
+- **Strong repayment trends**: Repayment indicates a strong repayment culture among borrowers, ensuring the bank’s survival.
+- **Regional Focus**: Funding for areas with high development needs reflects IDA’s commitment to equitable development.
+- **Program Improvement**: Surveys of large borrowers and projects highlight the effectiveness of cash management and the impact of funding projects.
+
+---
+
+## Project Insights
+
+**Effective allocation of funds**:
+
+The IDA’s program of financing elite lenders and specialist sectors has led to significant growth in those sectors. Monitoring supply and utilization rates can help to understand the progress and effectiveness of ongoing projects.
+
+**Area and project-specific performance**:
+
+The dashboard highlights areas and projects where funds have been well spent and provides a benchmark for future allocation. Identifying areas of limited funding can help address any challenges and ensure that funds are spent promptly.
+
+**Growth impact**:
+
+The capital commitment demonstrates IDA’s strong commitment to supporting the global development agenda. Diversification across regions and sectors ensures a balanced approach to global development challenges.
