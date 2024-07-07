@@ -25,3 +25,9 @@ The dataset includes various metrics related to IDA financing, including initial
 - **Amount Repaid to IDA**&nbsp;&nbsp;&nbsp;: $139.2bn
 - **Undisbursed Amount**&nbsp;&nbsp;&nbsp;&nbsp;: $105.9bn
 - **Amount Due to IDA**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: $199.1bn
+
+**Insights**
+
+- Funding: A substantial portion of the capital has been allocated, indicating active commitment to the project.
+- Repayment Performance: The amounts payable to the IDA exhibit strong repayment characteristics, which are important for the sustainability of the Bank.
+- No cash flow: Managing cash flow helps in faster completion of the project and improves cash management.
