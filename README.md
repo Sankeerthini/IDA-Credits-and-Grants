@@ -1,4 +1,4 @@
-# IDA Credits and Grants
+# IDA Credits and Grants Analysis in Power BI
 **Introduction and purpose**
 --
 
@@ -60,4 +60,9 @@ Research conducted
 
 ---
 
+![Regional Financial Analysis](https://drive.google.com/uc?export=view&id=16uqezeyaNj2Tm4RGpgBVvT6ns3PVSyVy/view?usp=share_link)
+
+---
+
+## Section 2: Regional Financial Analysis
 
