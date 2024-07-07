@@ -13,4 +13,16 @@ The dataset includes various metrics related to IDA financing, including initial
 
 ![Dashboard Overview](https://drive.google.com/uc?export=view&id=1CoU28pihigfcNjvqyyLM_FAc0GjPFkSN)
 
+---
+
+**Section 1: Overview**
+--
+
+**Key Metrics**
+
+Original Amount       : $555.2bn
+Disbursed Amount      : $408.9bn
+Amount Repaid to IDA  : $139.2bn
+Undisbursed Amount    : $105.9bn
+Amount Due to IDA     : $199.1bn
 
