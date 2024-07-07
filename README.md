@@ -60,7 +60,7 @@ Research conducted
 
 ---
 
-![Regional Financial Analysis](https://drive.google.com/uc?export=view&id=16uqezeyaNj2Tm4RGpgBVvT6ns3PVSyVy/view?usp=share_link)
+![Regional Financial Anlysis](https://drive.google.com/uc?export=view&id=16uqezeyaNj2Tm4RGpgBVvT6ns3PVSyVy)
 
 ---
 
